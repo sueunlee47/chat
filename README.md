@@ -14,7 +14,7 @@ Node Version: v22.14.0
 [X] vercel 사용해서 배포
 
 ### TODO LIST
-[ ] Monorepo 설정하기
+[ ] Monorepo 설정하기   
 [ ] WebSocket 사용해(정확히는 Socket.IO 사용할 예정) 채팅룸 생성   
 [ ] UI 고민하기... 잘 되어있는 채팅 프로그램 UI 클론 코딩 할 예정   
 [ ] OPEN AI 설정   
