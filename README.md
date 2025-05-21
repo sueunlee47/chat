@@ -2,9 +2,11 @@
 web socket 을 활용하여 간단한 채팅 프로그램을 만들보겠습니다   
 혼자서 만드는 개인 프로젝트입니다   
 OPEN AI 설정하고, 최종적으로는 RAG 사용해서 AI 학습시켜 소통 가능하도록 채팅방을 만들어보겠습니다
+웹 애플리케이션 주소 URL: https://chat-one-swart-67.vercel.app/
 
 ### DONE
-[x] NextJS 프레임워크 설정하기
+[X] NextJS 프레임워크 설정하기
+[X] vercel 사용해서 배포
 
 
 ### TODO LIST
