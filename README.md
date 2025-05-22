@@ -12,9 +12,9 @@ Node Version: v22.14.0
 ### DONE
 [X] NextJS 프레임워크 설정하기   
 [X] vercel 사용해서 배포
+[X] Monorepo 고민... 결론:사용안함, 프론트 백앤드 모노리포로 설정해볼까 잠깐 고민했다가, 보통은 프론트에서 여러개 도메인을 가지고 있을경우, 사용하는것 같다.. 주로 turborepo 문서 찾아봄. nextjs + nestjs 조합은 생각보다 많이 안나오고 문서도 많이 없어서, 패스
 
 ### TODO LIST
-[ ] Monorepo 설정하기   
 [ ] WebSocket 사용해(정확히는 Socket.IO 사용할 예정) 채팅룸 생성   
 [ ] UI 고민하기... 잘 되어있는 채팅 프로그램 UI 클론 코딩 할 예정   
 [ ] OPEN AI 설정   
